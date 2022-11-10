@@ -1,0 +1,16 @@
+db.users.find()
+show db.users.collections
+show collections
+ db.test.collections
+show db.test.collections
+show dbs
+db.users.find()
+db.users.find
+show collections
+use test
+show dbs
+db.chats.find()
+db.onlineUsers.find()
+show collections
+use chatApp
+show dbs

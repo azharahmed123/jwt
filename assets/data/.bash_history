@@ -1,0 +1,3 @@
+mongosh
+exit
+exit
